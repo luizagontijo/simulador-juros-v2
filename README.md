@@ -1,7 +1,7 @@
 
 # Simulador de Juros (Spring Boot) — v2
 
-Esta versão corrige o `pom.xml` (versão do parent **fixa**) e inclui um `settings-central.xml` para rodar o Maven usando o **Maven Central**, ignorando o mirror corporativo.
+Criei esse projeto com IA pra poder praticar a criação de testes automatizados do curso Qualidade de Software: escrevendo testes de maneira eficiente
 
 ## Como rodar (Windows / PowerShell)
 1. Garanta **Java 17** e **Maven** instalados (`java -version`, `mvn -version`).
